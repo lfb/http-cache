@@ -1,6 +1,8 @@
 ## 项目
 用 Koa 代码简单模拟强缓存和协商缓存机制
 
+详细文章说明：[https://www.imooc.com/article/321904](https://www.imooc.com/article/321904)
+
 ## 使用
 首先、下载项目
 ```
